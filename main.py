@@ -5,7 +5,6 @@ bot = ChatBot('Bot')
 bot.storage.drop()
 '''
 
-
 #Uncomment the below block to train chatterbot with preset data
 '''
 from chatterbot.trainers import ChatterBotCorpusTrainer
